@@ -20,5 +20,5 @@ __all__ = [
     'parse_stamp',
 ]
 
-ENGINE_VERSION = '0.1.15'
+ENGINE_VERSION = '0.1.16'
 """Analyzer release this package is pinned to. Kept in step with `[tool.trustabl]`."""
