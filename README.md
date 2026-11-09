@@ -47,7 +47,7 @@ file tools, and to replace an existing file there only if it carries a Forge sta
 | Option | Default | Meaning |
 |---|---|---|
 | `command` | `None` | Analyzer binary to run. `None` uses `trustabl` on the workspace's PATH, else the pinned release. |
-| `engine_version` | `0.1.15` | Analyzer release to download. Must be `0.1.14` or later. |
+| `engine_version` | `0.1.16` | Analyzer release to download. Must be `0.1.14` or later. |
 | `timeout` | `300` | Seconds for one Forge run. The first run also downloads the rules. |
 | `guidance` | `None` | Replaces the default instructions. `''` adds none. |
 
